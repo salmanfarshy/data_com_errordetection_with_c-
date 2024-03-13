@@ -1,1 +1,1 @@
-# This is an error detection project writtern by c++.
+## This is an error detection project writtern by c++.
